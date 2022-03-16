@@ -39,8 +39,8 @@ Cards-management: Cards-management module for banking-system
 - **_Technologies used:_** Angular, Java (Spring boot), Jenkins, Docker, k8s, rabbitmq.
 
 **Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
-Metapay: Payroll tool for HR department 
-Metatest: An internal tool for testers to track their tasks
+Metapay: Payroll tool for HR department <br>
+Metatest: An internal tool for testers to track their tasks <br>
 Some maintenance projects: Old JSP projects from Korean side
 
 - Designing and developing features
