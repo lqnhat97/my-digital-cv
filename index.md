@@ -1,8 +1,7 @@
 # Le Quang Nhat
 
 _Software engineer in Ho Chi Minh city, Vietnam_ <br>
-_**DoB**: 24/09/1997_
-_**Phone**: +84786358044_
+_**DoB**: 24/09/1997_ <br>
 [Email](mailto:lqnhat97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lqnhat97/) / [GitHub](https://github.com/lqnhat97/)
 
 ## 🎯 Objective
