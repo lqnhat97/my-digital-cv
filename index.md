@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Le Quang Nhat
 
-You can use the [editor on GitHub](https://github.com/lqnhat97/my-digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software engineer in Ho Chi Minh city, Vietnam_ </br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## :beginner: Objective
 
-### Markdown
+Seeking a position as a Software Engineer where I can utilize my software engineering skills, abilities and experiences gained through relevant education and projects to contribute to the ongoing success of the company.
+Lately I've been interested in Rust and blockchain technology so I've decided to learn about it :eyes:
+But I will always try my best in my work :sunflower: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## :blue_book: Education
 
-```markdown
-Syntax highlighted code block
+**Bachelor of Information Technology** in University of Science
+[University of science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
 
-# Header 1
-## Header 2
-### Header 3
+## :rocket: Technological skills
 
-- Bulleted
-- List
+- Having fundamental understanding of software development, OOP
+- Main language is Java
+- Recently, I'm learning Rust language.
+- Proficiency with many relational databases.
+- Can use git, docker, Jenkins, and have knowledge about cloud
+- Having knowledge of Agile and scrum methodology
+- Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
+- Withstand high work pressure
 
-1. Numbered
-2. List
+## :computer: Working Experience
 
-**Bold** and _Italic_ and `Code` text
+**Software Engineer** @ [ubitec](https://ubitec.com/) _(Feb 2021 - Feb 2022)_
+Cards-management: Cards-management module for banking-system
 
-[Link](url) and ![Image](src)
-```
+- Implementing features, pages that improve the UI and accessibility of the integrations platform
+- Designing and developing apis
+- Implementing unit test, e2e test
+- Building docker, jenkins, helm chart for deploying to the playground
+- Doing manual test, code review
+- **_Technologies used:_** Angular, Java (Spring boot), Jenkins, Docker, k8s, rabbitmq.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_
+Metapay: Payroll tool for HR department
+Metatest: An internal tool for testers to track their tasks
+Some maintenance projects: Old JSP projects from Korean side
 
-### Jekyll Themes
+- Designing and developing features
+- Implementing unit test
+- Doing manual test, code review
+- **_Technologies used:_** Angular, Java (Spring boot), Jenkins
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lqnhat97/my-digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Software Engineer** @ [elca](https://www.elca.vn/) _(Nov 2020 - Jan 2021)_
+iPension: Switzerland Insurance management
 
-### Support or Contact
+- Maintenance existing project
+- Developing new features
+- Implementing unit test
+- Learning about microservice architect
+- **_Technologies used:_** JavaFx, gRPC
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Internship** @ [Eplatform solution](https://www.eplatform.vn/) _(2018)_
+MyHR: Internal tool for HRM
+
+- Learning about how to work in professional (planning, code review, estimation)
+- Doing some tasks to get familiar with tech stacks
+- **_Technologies used:_** Java (Spring boot), VueJs
