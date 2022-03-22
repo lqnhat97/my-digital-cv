@@ -9,9 +9,7 @@ _**Email**: lqnhat97@gmail.com_ <br>
 
 ## 🎯 Objective
 
-Seeking a position as a Software Engineer where I can utilize my software engineering skills, abilities and experiences gained through relevant education and projects to contribute to the ongoing success of the company. <br> 
-Lately I've been interested in Rust and blockchain technology so I've decided to learn about it 👀 <br>
-But I will always try my best in my work ✌️
+Seeking a position as a Software Engineer where I can utilize my software engineering skills, abilities and experiences gained through relevant education and projects to contribute to the ongoing success of the company. ✌️ <br> 
 
 ## 🎓 Education
 
