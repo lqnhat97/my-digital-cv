@@ -13,8 +13,7 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 🎓 Education
 
-**Bachelor of Information Technology** in University of Science
-[University of science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
+**Bachelor of Information Technology** in [University of science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
 
 ## ✍️ Technological skills
 
