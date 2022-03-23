@@ -48,13 +48,12 @@ Some maintenance projects: Old JSP projects from Korean side
 - Doing manual test, code review
 - **_Technologies used:_** Angular, Java (Spring boot), Jenkins
 
-**Software Engineer** @ [elca](https://www.elca.vn/) _(Nov 2020 - Jan 2021)_ <br>
+**Software Engineer** @ [elca](https://www.elca.vn/) _(Jul 2019 - Nov 2019)_ <br>
 iPension: Switzerland Insurance management
 
 - Maintenance existing project
 - Developing new features
 - Implementing unit test
-- Learning about microservice architect
 - **_Technologies used:_** JavaFx, gRPC
 
 **Internship** @ [Eplatform solution](https://www.eplatform.vn/) _(2018)_ <br>
