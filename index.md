@@ -28,6 +28,15 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 👨‍💻 Working Experience
 
+**Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 202 - Present)_ <br>
+ADvendio Marketplace: Salesforce integration
+
+- Designing and building web services to get/sync data from Salesforce to others Salesforce account or others platform
+- Designing and developing apis
+- Mapping from Salesforce object to OpenDirect standard
+- Doing manual test, code review
+- **_Technologies used:_** Java (Spring boot)
+
 **Software Engineer** @ [ubitec](https://ubitec.com/) _(Feb 2021 - Feb 2022)_ <br>
 Cards-management: Cards-management module for banking-system
 
