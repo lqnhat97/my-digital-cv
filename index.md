@@ -28,7 +28,7 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 👨‍💻 Working Experience
 
-**Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
+**Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
 ADvendio Marketplace: Salesforce integration
 
 - Designing and building web services to get/sync data from Salesforce to others Salesforce account or others platform
