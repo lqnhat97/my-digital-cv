@@ -37,7 +37,7 @@ ADvendio Marketplace: Salesforce integration
 - Doing manual test, code review
 - **_Technologies used:_** Java (Spring boot)
 
-**Software Engineer** @ [ubitec](https://ubitec.com/) _(Feb 2021 - Feb 2022)_ <br>
+**Software Engineer** @ [mesoneer](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
 Cards-management: Cards-management module for banking-system
 
 - Implementing features, pages that improve the UI and accessibility of the integrations platform
