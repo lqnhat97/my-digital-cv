@@ -18,8 +18,7 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 ## ✍️ Technological skills
 
 - Having fundamental understanding of software development, OOP
-- Main language is Java
-- Recently, I'm learning Rust language
+- Almost using Java
 - Proficiency with many relational databases
 - Can use git, docker, Jenkins, and have knowledge about cloud
 - Having knowledge of Agile and scrum methodology
@@ -28,8 +27,8 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 👨‍💻 Working Experience
 
-**Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
-ADvendio Marketplace: Salesforce integration
+**Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
+ADvendio Marketplace (Web service): Salesforce integration
 
 - Designing and building web services to get/sync data from Salesforce to others Salesforce account or others platform
 - Designing and developing apis
@@ -37,7 +36,7 @@ ADvendio Marketplace: Salesforce integration
 - Doing manual test, code review
 - **_Technologies used:_** Java (Spring boot)
 
-**Software Engineer** @ [mesoneer](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
+**Software Engineer** @ [mesoneer.](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
 Cards-management: Cards-management module for banking-system
 
 - Implementing features, pages that improve the UI and accessibility of the integrations platform
