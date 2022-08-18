@@ -1,5 +1,4 @@
 # Le Quang Nhat
-_Lee_ <br>
 
 <img src="https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true" alt="drawing" style="width:200px;"/> <br>
 _Software engineer in Ho Chi Minh city, Vietnam_ <br>
@@ -28,16 +27,12 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 ## 👨‍💻 Working Experience
 
 **Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
-ADvendio Marketplace: Salesforce data mapping
+_ADvendio Marketplace:_ Salesforce data mapping
+_ADvendio LinkedIn Integration: LinkedIn Marketing integration_
 
-- Web service to get/sync data from Salesforce to others Salesforce account or others platform
-- Designing and developing apis create/update Salesforce objects by using OpenDirect standard (map data between Salesforce objects and OpenDirect standard)
-- Doing manual test, code review
-- **_Technologies used:_** Java (Spring boot)
-  
-ADvendio LinkedIn Integration: LinkedIn Marketing integration
-
-- Designing and developing apis create LinkedIn Campaign and update to Salesforce
+- Building mechanism to get/sync data from Salesforce to others Salesforce account or others platform
+- Building mechanism to create/update Salesforce objects by using OpenDirect standard (map data between Salesforce objects and OpenDirect standard)
+- Designing and developing apis
 - Doing manual test, code review
 - **_Technologies used:_** Java (Spring boot)
 
