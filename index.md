@@ -27,8 +27,8 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 ## 👨‍💻 Working Experience
 
 **Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
-_ADvendio Marketplace:_ Salesforce data mapping
-_ADvendio LinkedIn Integration: LinkedIn Marketing integration_
+_ADvendio Marketplace:_ Salesforce data mapping <br>
+_ADvendio LinkedIn Integration:_ LinkedIn Marketing integration
 
 - Building mechanism to get/sync data from Salesforce to others Salesforce account or others platform
 - Building mechanism to create/update Salesforce objects by using OpenDirect standard (map data between Salesforce objects and OpenDirect standard)
@@ -37,14 +37,14 @@ _ADvendio LinkedIn Integration: LinkedIn Marketing integration_
 - **_Technologies used:_** Java (Spring boot)
 
 **Senior Software Engineer** @ [12legions](https://12legions.io/) _(Sep 2021 - Mar 2022)_ **(Part-time)** <br>
-12 Legions: Turn-based MMO Game (NFT Game)
+_12 Legions:_ Turn-based MMO Game (NFT Game)
 
 - Handling game battle mechanism
 - Optimizing & monitoring services
 - **_Technologies used:_** Java (vertx), k8s, kafka.
 
 **Software Engineer** @ [mesoneer.](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
-Cards-management: Cards-management module for banking-system
+_Cards-management:_ Cards-management module for banking-system
 
 - Implementing features, pages that improve the UI and accessibility of the integrations platform
 - Designing and developing apis
@@ -54,8 +54,8 @@ Cards-management: Cards-management module for banking-system
 - **_Technologies used:_** Angular, Java (Spring boot), k8s, rabbitmq.
 
 **Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
-Metapay: Payroll tool for HR department <br>
-Metatest: An internal tool for testers to track their tasks <br>
+_Metapay:_ Payroll tool for HR department <br>
+_Metatest:_ An internal tool for testers to track their tasks <br>
 Some maintenance projects: Old JSP projects from Korean
 
 - Designing and developing features
@@ -64,7 +64,7 @@ Some maintenance projects: Old JSP projects from Korean
 - **_Technologies used:_** Angular, Java (Spring boot)
 
 **Software Engineer** @ [elca](https://www.elca.vn/) _(Jul 2019 - Nov 2019)_ <br>
-iPension: Switzerland Insurance management
+_iPension:_ Switzerland Insurance management
 
 - Maintenance existing project
 - Developing new features
@@ -72,7 +72,7 @@ iPension: Switzerland Insurance management
 - **_Technologies used:_** JavaFx, gRPC
 
 **Internship** @ [Eplatform solution](https://www.eplatform.vn/) _(2018)_ <br>
-MyHR: Internal tool for HRM
+_MyHR:_ Internal tool for HRM
 
 - Learning about how to work in professional (planning, code review, estimation)
 - Doing some tasks to get familiar with tech stacks
