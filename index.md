@@ -1,4 +1,5 @@
 # Le Quang Nhat
+_Lee_ <br>
 
 <img src="https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true" alt="drawing" style="width:200px;"/> <br>
 _Software engineer in Ho Chi Minh city, Vietnam_ <br>
@@ -18,23 +19,34 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 ## ✍️ Technological skills
 
 - Having fundamental understanding of software development, OOP
-- Almost using Java
-- Proficiency with many relational databases
-- Can use git, docker, Jenkins, and have knowledge about cloud
-- Having knowledge of Agile and scrum methodology
+- Working as Backend developer, almost using Java, can quickly adapt to new (with me) techs
+- Having knowledge of git, docker, cloud-based or on-premises fundamental
+- Having knowledge of agile and scrum methodology
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
 - Withstand high work pressure
 
 ## 👨‍💻 Working Experience
 
 **Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
-ADvendio Marketplace (Web service): Salesforce integration
+ADvendio Marketplace: Salesforce data mapping
 
-- Designing and building web services to get/sync data from Salesforce to others Salesforce account or others platform
-- Designing and developing apis
-- Mapping from Salesforce object to OpenDirect standard
+- Web service to get/sync data from Salesforce to others Salesforce account or others platform
+- Designing and developing apis create/update Salesforce objects by using OpenDirect standard (map data between Salesforce objects and OpenDirect standard)
 - Doing manual test, code review
 - **_Technologies used:_** Java (Spring boot)
+  
+ADvendio LinkedIn Integration: LinkedIn Marketing integration
+
+- Designing and developing apis create LinkedIn Campaign and update to Salesforce
+- Doing manual test, code review
+- **_Technologies used:_** Java (Spring boot)
+
+**Senior Software Engineer** @ [12legions](https://12legions.io/) _(Sep 2021 - Mar 2022)_ **(Part-time)** <br>
+12 Legions: Turn-based MMO Game (NFT Game)
+
+- Handling game battle mechanism
+- Optimizing & monitoring services
+- **_Technologies used:_** Java (vertx), k8s, kafka.
 
 **Software Engineer** @ [mesoneer.](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
 Cards-management: Cards-management module for banking-system
@@ -44,17 +56,17 @@ Cards-management: Cards-management module for banking-system
 - Implementing unit test, e2e test
 - Building docker, jenkins, helm chart for deploying to the playground
 - Doing manual test, code review
-- **_Technologies used:_** Angular, Java (Spring boot), Jenkins, Docker, k8s, rabbitmq.
+- **_Technologies used:_** Angular, Java (Spring boot), k8s, rabbitmq.
 
 **Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
 Metapay: Payroll tool for HR department <br>
 Metatest: An internal tool for testers to track their tasks <br>
-Some maintenance projects: Old JSP projects from Korean side
+Some maintenance projects: Old JSP projects from Korean
 
 - Designing and developing features
 - Implementing unit test
 - Doing manual test, code review
-- **_Technologies used:_** Angular, Java (Spring boot), Jenkins
+- **_Technologies used:_** Angular, Java (Spring boot)
 
 **Software Engineer** @ [elca](https://www.elca.vn/) _(Jul 2019 - Nov 2019)_ <br>
 iPension: Switzerland Insurance management
