@@ -1,6 +1,6 @@
 # Nguyen Ha Yen Linh
 
-<img src="https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/linhava.jpg?raw=true" alt="drawing" style="width:200px;"/> <br>
+<img src="https://github.com/lqnhat97/my-digital-cv/blob/cv/linh/img/linhava.jpg?raw=true" alt="drawing" style="width:200px;"/> <br>
 _Tester in Ho Chi Minh City, Vietnam_ <br>
 _**DoB**: 13/05/1998_ <br>
 _**Phone**: +84778738379_ <br>
