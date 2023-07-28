@@ -12,7 +12,7 @@ Seeking a position as a Tester where I can utilize my testing skills, abilities,
 
 ## 🎓 Certificates
 
-**LogiGear Certificates (LCTP)** at [University of Science - Computer Science Center](https://csc.edu.vn/) - Ho Chi Minh city, Vietnam _(2023)_
+**LogiGear Certified Test Professional** by the Computer Science Center and LogiGear Vietnam (https://csc.edu.vn/ - https://www.logigear.vn/) - Ho Chi Minh city, Vietnam _(2023)_
 
 ## ✍️ Technological skills
 
