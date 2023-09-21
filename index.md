@@ -19,11 +19,13 @@ Seeking a position as a Tester where I can utilize my testing skills, abilities,
 - Having a fundamental understanding of software development.
 - Manual testing.
 - Automation testing (Test Architect tool).
-- Little database skills.
+- Having basic knowledge of java
+- Having basic knowledge of database skills.
 - Having knowledge of agile and scrum methodology.
 - Strong self-discipline for delivering well-tested, complete tasks a tight schedule and the capability for rational thinking.
 - Withstand high work pressure.
 
 ## 👨‍💻 Working Experience
 
-- No working experience
+- No working experience in tech
+- _(Non-tech)_ Customer Care Staff in Finance Department @ (**Viaconto**) _(2020-2022)_
