@@ -17,20 +17,30 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## ✍️ Technological skills
 
-- Having a fundamental understanding of software development, OOP
-- Working as a Backend developer, almost using Java, can quickly adapt to new (with me) techs
-- Knowing git, docker, cloud-based, or on-premises fundamental
-- Knowing agile and scrum methodology
+- Having a *fundamental understanding of software development*.
+- Adaptable *Backend Developer*, proficient in *Java* and ready to tackle new technical challenges.
+- Knowing git, docker, cloud-based, or on-premises fundamental.
+- Experienced with *agile and scrum* practices, adept at collaborating in fast-paced environments.
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
-- Withstand high work pressure
+- Adept at prioritizing tasks and managing time effectively, even in high-pressure situations.
+- Adept at guiding and developing junior staff.
 
 ## 👨‍💻 Working Experience
 
 **Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
-_ADvendio Marketplace OpenService:_ Salesforce data mapping using [OpenDirect standard](https://github.com/InteractiveAdvertisingBureau/OpenDirect/blob/master/OpenDirect.v2.0.final.md)<br>
-_ADvendio Gateway MicroServices:_ Services that help Salesforce connect to other platforms (Google Campaign Manager, Linkedin Marketing, ...) <br>
+_Performance Assessment (PA):_ Internal system for employee evaluation <br>
 
-- Handling checking credentials (Google, LinkedIn)
+- Handling checking credentials through Azure IAM
+- Building a mechanism to dynamic add/delete fields on Performance assessment's template
+- Designing assessment's flow, 
+- Designing and developing APIs
+- Doing manual tests, unit tests, code review
+- **_Technologies used:_** Java (Spring boot), MS Azure
+
+_Marketplace OpenService:_ Salesforce data mapping following [OpenDirect standard](https://github.com/InteractiveAdvertisingBureau/OpenDirect/blob/master/OpenDirect.v2.0.final.md)<br>
+_ADvendio Gateway MicroServices:_ Services that help Salesforce connect and interact (CRUD) to other platforms (Google Campaign Manager, Linkedin Marketing, ...) <br>
+
+- Handling checking credentials (Google, LinkedIn), and verify user through AWS Cognito
 - Building a mechanism to get/sync data from Salesforce to other Salesforce accounts or other platforms
 - Designing and developing APIs (CRUD Campaigns / Ads)
 - Doing manual tests, code review
