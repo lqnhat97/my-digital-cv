@@ -35,7 +35,7 @@ _Performance Assessment (PA):_ Internal system for employee evaluation <br>
 - Designing assessment's flow, 
 - Designing and developing APIs
 - Doing manual tests, unit tests, code review
-- **_Technologies used:_** Java (Spring boot), MS Azure
+- _Technologies used:_ **Java (Spring boot)**, **Microsoft Azure**
 
 _Marketplace OpenService:_ Salesforce data mapping following [OpenDirect standard](https://github.com/InteractiveAdvertisingBureau/OpenDirect/blob/master/OpenDirect.v2.0.final.md)<br>
 _ADvendio Gateway MicroServices:_ Services that help Salesforce connect and interact (CRUD) to other platforms (Google Campaign Manager, Linkedin Marketing, ...) <br>
@@ -44,14 +44,14 @@ _ADvendio Gateway MicroServices:_ Services that help Salesforce connect and inte
 - Building a mechanism to get/sync data from Salesforce to other Salesforce accounts or other platforms
 - Designing and developing APIs (CRUD Campaigns / Ads)
 - Doing manual tests, code review
-- **_Technologies used:_** Java (Spring boot), AWS
+- _Technologies used:_ **Java (Spring boot)**, **AWS**
 
 **Senior Software Engineer** @ [12legions](https://12legions.io/) _(Sep 2021 - Mar 2022)_ **(Part-time)** <br>
 _12 Legions:_ Turn-based MMO Game (NFT Game)
 
 - Handling game battle mechanism
 - Optimizing & monitoring services
-- **_Technologies used:_** Java, AWS, k8s, kafka.
+- _Technologies used:_ **Java**, **AWS**, **k8s**, **kafka**.
 
 **Software Engineer** @ [mesoneer.](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
 _Cards-management:_ Cards-management module for [CREALOGIX](https://crealogix.com/en) banking-system
@@ -61,7 +61,7 @@ _Cards-management:_ Cards-management module for [CREALOGIX](https://crealogix.co
 - Implementing unit test, e2e test
 - Building docker, Jenkins, and helm chart for deploying to the playground
 - Doing manual tests, code review
-- **_Technologies used:_** Angular, Java, k8s, rabbitmq.
+- _Technologies used:_ **Angular**, **Java**, **k8s**, **rabbitmq**.
 
 **Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
 _Metapay:_ Payroll tool for HR department <br>
@@ -71,7 +71,7 @@ Some maintenance projects: Old JSP projects from Korean
 - Designing and developing features
 - Implementing unit test
 - Doing manual tests, code review
-- **_Technologies used:_** Angular, Java, Microsoft Azure
+- _Technologies used:_ **Angular**, **Java**, **Microsoft Azure**
 
 **Software Engineer** @ [elca](https://www.elca.vn/) _(Jul 2019 - Nov 2019)_ <br>
 _iPension:_ Switzerland Insurance management
@@ -79,14 +79,14 @@ _iPension:_ Switzerland Insurance management
 - Maintenance of existing project
 - Developing new features
 - Implementing unit test
-- **_Technologies used:_** JavaFx, gRPC
+- _Technologies used:_ **JavaFx**, **gRPC**
 
 **Internship** @ [Eplatform solution](https://www.eplatform.vn/) _(2018)_ <br>
 _MyHR:_ Internal tool for HRM
 
 - Learning about how to work professional (planning, code review, estimation)
 - Doing some tasks to get familiar with tech stacks
-- **_Technologies used:_** Java, VueJs
+- _Technologies used:_ **Java**, **VueJs**
 
 ## 🧸 Interest
 
