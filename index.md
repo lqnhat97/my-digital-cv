@@ -27,16 +27,17 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 👨‍💻 Working Experience
 
-**Senior Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
+**Senior Software Engineer** @ [AGEST Vietnam](https://www.agest.vn/) _(Apr 2022 - Present)_ <br>
 _Performance Assessment (PA):_ Internal system for employee evaluation <br>
 
 - Handling checking credentials through Azure IAM
 - Building a mechanism to dynamic add/delete fields on Performance assessment's template
 - Designing assessment's flow, 
-- Designing and developing APIs
+- Designing and developing APIs for common purposes (analyze, CRUD with current data)
 - Doing manual tests, unit tests, code review
-- _Technologies used:_ **Java (Spring boot)**, **Microsoft Azure**
+- _Technologies used:_ **Java (Spring boot)**, **Microsoft Azure**, **postgres**
 
+[ADvendio](https://www.advendio.com/) - Projects: <br>
 _Marketplace OpenService:_ Salesforce data mapping following [OpenDirect standard](https://github.com/InteractiveAdvertisingBureau/OpenDirect/blob/master/OpenDirect.v2.0.final.md)<br>
 _ADvendio Gateway MicroServices:_ Services that help Salesforce connect and interact (CRUD) to other platforms (Google Campaign Manager, Linkedin Marketing, ...) <br>
 
@@ -57,18 +58,18 @@ _12 Legions:_ Turn-based MMO Game (NFT Game)
 _Cards-management:_ Cards-management module for [CREALOGIX](https://crealogix.com/en) banking-system
 
 - Implementing features and pages that improve the UI and accessibility of the integrations platform
-- Designing and developing APIs
+- Designing and developing APIs (transactions, card info, lock/unlock card)
 - Implementing unit test, e2e test
 - Building docker, Jenkins, and helm chart for deploying to the playground
 - Doing manual tests, code review
-- _Technologies used:_ **Angular**, **Java**, **k8s**, **rabbitmq**.
+- _Technologies used:_ **Angular**, **Java**, **k8s**, **rabbitmq**, **postgres**, **oracle**.
 
 **Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
 _Metapay:_ Payroll tool for HR department <br>
 _Metatest:_ An internal tool for testers to track their tasks <br>
 Some maintenance projects: Old JSP projects from Korean
 
-- Designing and developing features
+- Designing and developing features (payroll apis, analyze data, import/export excel, ...)
 - Implementing unit test
 - Doing manual tests, code review
 - _Technologies used:_ **Angular**, **Java**, **Microsoft Azure**
