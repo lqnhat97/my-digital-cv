@@ -18,8 +18,9 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 ## ✍️ Technological skills
 
 - Having a *fundamental understanding of software development*.
-- Adaptable *Backend Developer*, proficient in *Java* and ready to tackle new technical challenges.
-- Knowing git, docker, cloud-based, or on-premises fundamental.
+- Adaptable *Backend Developer*, proficient in *Java* (and a little bit python/js) and ready to tackle new technical challenges.
+- Knowing git, docker, cloud-based (AWS) or on-premises fundamental.
+- Having knowledge about databases such as mysql, postgres, dynamodb
 - Experienced with *agile and scrum* practices, adept at collaborating in fast-paced environments.
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
 - Adept at prioritizing tasks and managing time effectively, even in high-pressure situations.
@@ -27,7 +28,18 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 👨‍💻 Working Experience
 
-**Senior Software Engineer** @ [AGEST Vietnam](https://www.agest.vn/) _(Apr 2022 - Present)_ <br>
+**Software Engineer** @ [TymeX](https://vietnam.tyme.com/) _(June 2024 - Present)_ <br>
+_Lending Platform - Personal Loan_ : Provide / maintain personal loan systems of TymeBank South Africa<br>
+
+- Building the origination flow
+- Designing high level / documents for new features
+- Handling eligibility check / affordability check
+- Working closely with 3rd parties which provide solutions such as: check identity, check bank statements, biometric, credit scores ...
+- Collaborating with cross-functional teams delivering solutions in different aspects
+- Operation support tasks
+- _Technologies used:_ **Java (Spring boot)**, **python**, **AWS** (ECS, S3, MSK, Step Functions, Lambda, Egress/Ingress, SSM, Code Pipeline), **mysql**, **dynamodb**
+
+**Senior Software Engineer** @ [AGEST Vietnam](https://www.agest.vn/) _(Apr 2022 - May 2024)_ <br>
 _Performance Assessment (PA):_ Internal system for employee evaluation <br>
 
 - Handling checking credentials through Azure IAM
