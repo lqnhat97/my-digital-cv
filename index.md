@@ -2,7 +2,7 @@
 
 <img src="https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true" alt="drawing" style="width:200px;"/> <br>
 _Software engineer in Ho Chi Minh City, Vietnam_ <br>
-_**DoB**: 24/09/1997_ <br>
+<!-- _**DoB**: 24/09/1997_ <br> -->
 _**Phone**: +84786358044_ <br>
 _**Email**: lqnhat97@gmail.com_ <br>
 [LinkedIn](https://www.linkedin.com/in/lqnhat97/) / [GitHub](https://github.com/lqnhat97/)
